@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_gts4lvwifi.mk
+    $(LOCAL_DIR)/twrp_gts4lvwifi.mk
